@@ -112,17 +112,8 @@
 
 ---
 
-## 6.5. Связь с другими комплектами этого workspace
 
-Этот комплект согласован с уже существующими документами проекта и опирается на те же принципы:
-
-- [`../release-policy/README.md`](../release-policy/README.md) — релизная политика (Gitflow, branch permissions, merge-checks, test→prod). Агентный деплой из [документа 2](02-lifecycle-practices.md) ложится прямо на неё.
-- [`../release-policy/automation-release-pages.md`](../release-policy/automation-release-pages.md) — автосоздание страниц релиза Jira → Confluence. Хороший кандидат на docs-агента.
-
-
----
-
-## 6.6. Минимальный жизнеспособный старт (TL;DR)
+## 6.5. Минимальный жизнеспособный старт (TL;DR)
 
 Если нужно начать завтра:
 
